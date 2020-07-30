@@ -1,0 +1,13 @@
+C:\Users\pshen\source\repos\consoleClient\consoleClient\bin\Debug\netcoreapp3.1\consoleClient.exe
+C:\Users\pshen\source\repos\consoleClient\consoleClient\bin\Debug\netcoreapp3.1\consoleClient.deps.json
+C:\Users\pshen\source\repos\consoleClient\consoleClient\bin\Debug\netcoreapp3.1\consoleClient.runtimeconfig.json
+C:\Users\pshen\source\repos\consoleClient\consoleClient\bin\Debug\netcoreapp3.1\consoleClient.runtimeconfig.dev.json
+C:\Users\pshen\source\repos\consoleClient\consoleClient\bin\Debug\netcoreapp3.1\consoleClient.dll
+C:\Users\pshen\source\repos\consoleClient\consoleClient\bin\Debug\netcoreapp3.1\consoleClient.pdb
+C:\Users\pshen\source\repos\consoleClient\consoleClient\obj\Debug\netcoreapp3.1\consoleClient.AssemblyInfoInputs.cache
+C:\Users\pshen\source\repos\consoleClient\consoleClient\obj\Debug\netcoreapp3.1\consoleClient.AssemblyInfo.cs
+C:\Users\pshen\source\repos\consoleClient\consoleClient\obj\Debug\netcoreapp3.1\consoleClient.csproj.CoreCompileInputs.cache
+C:\Users\pshen\source\repos\consoleClient\consoleClient\obj\Debug\netcoreapp3.1\consoleClient.dll
+C:\Users\pshen\source\repos\consoleClient\consoleClient\obj\Debug\netcoreapp3.1\consoleClient.pdb
+C:\Users\pshen\source\repos\consoleClient\consoleClient\obj\Debug\netcoreapp3.1\consoleClient.genruntimeconfig.cache
+C:\Users\pshen\source\repos\consoleClient\consoleClient\obj\Debug\netcoreapp3.1\consoleClient.csprojAssemblyReference.cache
