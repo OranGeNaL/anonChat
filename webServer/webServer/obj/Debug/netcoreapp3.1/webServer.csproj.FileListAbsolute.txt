@@ -1,0 +1,13 @@
+C:\Users\pshen\source\repos\webServer\webServer\bin\Debug\netcoreapp3.1\webServer.exe
+C:\Users\pshen\source\repos\webServer\webServer\bin\Debug\netcoreapp3.1\webServer.deps.json
+C:\Users\pshen\source\repos\webServer\webServer\bin\Debug\netcoreapp3.1\webServer.runtimeconfig.json
+C:\Users\pshen\source\repos\webServer\webServer\bin\Debug\netcoreapp3.1\webServer.runtimeconfig.dev.json
+C:\Users\pshen\source\repos\webServer\webServer\bin\Debug\netcoreapp3.1\webServer.dll
+C:\Users\pshen\source\repos\webServer\webServer\bin\Debug\netcoreapp3.1\webServer.pdb
+C:\Users\pshen\source\repos\webServer\webServer\obj\Debug\netcoreapp3.1\webServer.csprojAssemblyReference.cache
+C:\Users\pshen\source\repos\webServer\webServer\obj\Debug\netcoreapp3.1\webServer.AssemblyInfoInputs.cache
+C:\Users\pshen\source\repos\webServer\webServer\obj\Debug\netcoreapp3.1\webServer.AssemblyInfo.cs
+C:\Users\pshen\source\repos\webServer\webServer\obj\Debug\netcoreapp3.1\webServer.csproj.CoreCompileInputs.cache
+C:\Users\pshen\source\repos\webServer\webServer\obj\Debug\netcoreapp3.1\webServer.dll
+C:\Users\pshen\source\repos\webServer\webServer\obj\Debug\netcoreapp3.1\webServer.pdb
+C:\Users\pshen\source\repos\webServer\webServer\obj\Debug\netcoreapp3.1\webServer.genruntimeconfig.cache
